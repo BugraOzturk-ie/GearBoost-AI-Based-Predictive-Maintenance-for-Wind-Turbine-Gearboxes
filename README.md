@@ -1,8 +1,5 @@
 # GearBoost: AI-Based Predictive Maintenance for Wind Turbine Gearboxes
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## Project Overview
 
 **GearBoost** is a comprehensive machine learning project focused on predictive maintenance for wind turbine gearboxes using ensemble boosting algorithms. The project compares three state-of-the-art gradient boosting methods—**XGBoost**, **LightGBM**, and **CatBoost**—to predict gearbox failures using real-world industrial sensor data from wind turbines.
@@ -120,8 +117,8 @@ pipeline = make_pipeline(
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/GearBoost.git
-cd GearBoost
+git clone https://github.com/BugraOzturk-ie/GearBoost-AI-Based-Predictive-Maintenance-for-Wind-Turbine-Gearboxes.git
+cd GearBoost-AI-Based-Predictive-Maintenance-for-Wind-Turbine-Gearboxes
 ```
 
 2. Install required packages:
@@ -204,10 +201,6 @@ Contributions are welcome! Please feel free to submit issues or pull requests fo
 - Alternative modeling approaches
 - Performance optimizations
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **TÜBİTAK** for funding through the 2209/B program
@@ -218,6 +211,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Project Lead**: Buğra Öztürk
+
+Mail: bugraozturk.ie@gmail.com
+LinkedIn: https://www.linkedin.com/in/bugraozturk/
+Instagram: https://www.instagram.com/endustricibugra/
 
 For questions or collaboration opportunities, please open an issue in this repository.
 
